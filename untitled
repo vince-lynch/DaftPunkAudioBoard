@@ -1,0 +1,108 @@
+/*body {
+
+	background-color: #000000;
+}
+
+img {
+top: 0px;
+ left: 20%;
+	margin: auto; 
+    position: fixed;
+	display: block;
+
+ 
+}
+
+ul.container {
+
+	/*display: block;*/
+	float: top;
+	display: block;
+    zoom: 1;
+    display*: inline; /* ie hack */
+    margin-left: 20%;
+    position: fixed;
+  
+}
+
+ul.soundbuttons {
+
+
+border: 4px solid white;
+width: 80%;
+height:600px;
+float: left;
+
+
+}
+
+
+div.container {
+
+	/*display: block;*/
+	float: top;
+	display: block;
+    zoom: 1;
+    display*: inline; /* ie hack */
+    margin-left: 20%;
+
+	position: fixed;
+   
+  
+}
+
+div.soundbuttons {
+
+
+border: 4px solid white;
+width: 80%;
+height:600px;
+}
+
+ul#row {
+
+width:450px;
+height: 101px;
+
+
+}
+
+/*button#WorkIs {
+	width: 100px;
+	height: 100px;
+	border: 1px solid #ddd;
+	border-radius:4px;
+	background-color: #fff;
+	box-shadow: 0 5px 10px 0 #666;
+		display: inline-block;
+	float: left;
+	position: relative;
+}*/
+
+button.Tile {
+	width: 100px;
+	height: 100px;
+	border: 1px solid #ddd; 
+	background-color: #fff;
+	box-shadow: 0 5px 10px 0 #666;
+	display: inline-block;
+
+
+	position: fixed;
+}
+
+
+/*
+button#PlayPause.paused {
+
+ background-image: url(images/video-play-3-xxl.png);
+ background-size: contain;
+
+}
+
+button#PlayPause.playing {
+
+ background-image: url(images/pause-xxl.png);
+ background-size: contain;
+
+}*/*/

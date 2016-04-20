@@ -1,0 +1,58 @@
+ body {
+
+ 	background-color: black;
+
+ }
+ img {
+ top: 0px;
+
+
+
+ }
+
+ .soundbuttons {
+
+ width:401px;
+ height:601px;
+display: block;
+border: 0px black solid;
+margin-top: 0px;
+margin-left: 25%;
+position: fixed;
+
+ }
+
+@font-face {
+
+font-family:"Daft Font";
+src:url("Daft_Font.eot?") format("eot"),url("Daft_Font.woff") format("woff"),url("Daft_Font.ttf") format("truetype"),url("Daft_Font.svg#DaftFont") format("svg");
+font-weight:normal;font-style:normal;
+}
+
+
+
+button:hover { 
+    background-color: #424545;
+    color: #dbdbdb;
+    font-style: bold;
+    font-family: 'Daft Font', sans-serif; 
+    font-size: 25px;
+}
+
+.Tile {
+	background-color: #121f1f;
+ 	width: 100px;
+	height: 100px;
+	border: 0px solid #ddd; 
+	color: #121f1f;
+	
+	box-shadow: 0 0px 0px 0 #666; 
+	display: inline;
+	float: left;
+	 
+}
+
+li {
+
+	list-style-type: none;
+}
